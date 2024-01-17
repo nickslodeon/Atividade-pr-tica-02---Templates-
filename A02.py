@@ -5,7 +5,7 @@ import test
 app = Flask(__name__)
 @app.route("/")
 def homepage():
-    return "<H1>salamaleiko programadores</H1>"
+    return "<H1>beleza?</H1>"
 
 @app.route("/start")
 
